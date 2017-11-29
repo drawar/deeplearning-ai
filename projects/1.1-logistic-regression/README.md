@@ -1,3 +1,5 @@
+# Coursera deeplearning.ai - Deep Learning Specialization - Neural Networks and Deep Learning
+
 ## Assignment 1: Logistic Regression with a Neural Network mindset
 
 Welcome to the first (required) programming exercise of the deep learning specialization. In this notebook you will build your first image recognition algorithm. You will build a cat classifier that recognizes cats with 70% accuracy!

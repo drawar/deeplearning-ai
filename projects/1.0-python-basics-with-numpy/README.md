@@ -1,3 +1,5 @@
+# Coursera deeplearning.ai - Deep Learning Specialization - Neural Networks and Deep Learning
+
 ## Assignment 0: Python Basics with Numpy
 
 Welcome to your first programming exercise of the deep learning specialization. In this assignment you will:

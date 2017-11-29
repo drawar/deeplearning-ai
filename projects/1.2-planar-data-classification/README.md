@@ -1,3 +1,5 @@
+# Coursera deeplearning.ai - Deep Learning Specialization - Neural Networks and Deep Learning
+
 ## Assignment 2: Planar data classification with a hidden layer.
 
 Welcome to the second programming exercise of the deep learning specialization. In this notebook you will generate red and blue points to form a flower. You will then fit a neural network to correctly classify the points. You will try different layers and see the results

@@ -1,3 +1,5 @@
+# Coursera deeplearning.ai - Deep Learning Specialization - Neural Networks and Deep Learning
+
 ## Assignment 3: Building your Deep Neural Network: Step by Step.
 
 Welcome to your third programming exercise of the deep learning specialization. You will implement all the building blocks of a neural network and use these building blocks in the next assignment to build a neural network of any architecture you want. By completing this assignment you will:
